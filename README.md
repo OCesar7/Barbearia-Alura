@@ -1,1 +1,1 @@
-Barbearia Alura - Simples
+Aula para criar uma pagina simples, Barbearia Alura.
